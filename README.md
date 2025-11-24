@@ -11,7 +11,7 @@ A console-based hospital record management application using Python and SQLite.
 
 ---
 
- **Features**
+## ●  **Features**
 
 - Patient Management
 
@@ -50,7 +50,7 @@ A console-based hospital record management application using Python and SQLite.
 
 
 ----------------------------------------------------
-**Technologies / Tools Used**
+## ● **Technologies / Tools Used**
 - Programming Language: Python 3.14.0
   
 - Database	SQLite (sqlite3 module)
@@ -93,7 +93,7 @@ A console-based hospital record management application using Python and SQLite.
 
 ---------
 
-**Instructions for Testing**
+## ● **Instructions for Testing**
 
 You can test the system by performing the following:
 
@@ -128,7 +128,7 @@ You can test the system by performing the following:
 
 -------------------
 
-**Screenshots**
+## ● **Screenshots**
 
 You may include any of these screenshots:
 
