@@ -129,20 +129,33 @@ You can test the system by performing the following:
 -------------------
 
 ## ● **Screenshots**
+main menu
+<img width="872" height="384" alt="Screenshot 2025-11-24 205821" src="https://github.com/user-attachments/assets/69bc4230-06cb-43fb-a446-8d76c31c8a02" />
 
-You may include any of these screenshots:
 
-Running the main menu
-
-Adding a patient
-
-Viewing records in terminal
+deleting operations
+<img width="798" height="562" alt="Screenshot 2025-11-24 210607" src="https://github.com/user-attachments/assets/25b9dc89-9d91-4cbc-9e85-68d1e7969664" />
 
 
 
 
+patients panel
+<img width="719" height="454" alt="Screenshot 2025-11-24 205431" src="https://github.com/user-attachments/assets/90df9ec4-b33e-4fbf-9203-8c32f2afe819" />
 
 
+
+doctor list
+<img width="655" height="387" alt="Screenshot 2025-11-24 205931" src="https://github.com/user-attachments/assets/2737b5f7-de1e-4a06-9b68-24911b65eac9" />
+
+
+
+
+appointment menu
+<img width="943" height="1295" alt="Screenshot 2025-11-24 210413" src="https://github.com/user-attachments/assets/0219a250-5724-46b6-a4f1-6380b13510b7" />
+
+
+exit panel
+<img width="592" height="321" alt="Screenshot 2025-11-24 215650" src="https://github.com/user-attachments/assets/1cd01e1f-78fc-4c9f-bcda-f331cae7a224" />
 ----------------------------------
 Submitted by: TANISHKA SAHU      :    25BCE10056
 
